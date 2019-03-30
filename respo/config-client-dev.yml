@@ -1,6 +1,6 @@
 server:
   port: 8762
-foo: wecome to github  
+foo: wecome to github respo1 
 eureka:
   client:
     service-url:
